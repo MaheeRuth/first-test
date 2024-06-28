@@ -1,0 +1,2 @@
+this is test 3 files that is added to the git local repo
+this is some notes written on ci cd pipelines
